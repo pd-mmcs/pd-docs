@@ -10,5 +10,16 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Общие положения
 
+   self
+   common-info/concepts
+   common-info/stages
+   common-info/requirements
+
+.. toctree::
+   :caption: Дополнительные материалы
+
+   extra/presentation-checklist
+   extra/idea-bank
+   extra/stack-ideas
